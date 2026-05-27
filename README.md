@@ -51,14 +51,11 @@ Se você preferir não instalar nada no seu computador, pode rodar os notebooks 
 Para rodar os arquivos `.ipynb` no seu computador:
 1. **Baixe o repositório:** Clique no botão verde **Code** (no topo desta página) e selecione *Download ZIP* (ou clone via Git se tiver familiaridade).
 2. **Instale o Python e Jupyter:** Certifique-se de ter o Python 3 instalado. Você pode instalar o Jupyter rodando no seu terminal/prompt:
-3. Abra o ambiente: Navegue via terminal até a pasta onde extraiu os arquivos do curso e digite:
+   pip install jupyter
+4. Abra o ambiente: Navegue via terminal até a pasta onde extraiu os arquivos do curso e digite:
   jupyter notebook
   Uma aba abrirá no seu navegador com a estrutura de pastas do curso.
-4. Uma aba abrirá no seu navegador com a estrutura de pastas do curso.
+5. Uma aba abrirá no seu navegador com a estrutura de pastas do curso.
 
 👨‍🏫 Instrutor
 Prof. MSc. Francisco Neto * Curso de Fundamentos de Python3
-
-5. 
-   ```bash
-   pip install jupyter
