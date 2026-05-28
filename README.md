@@ -46,6 +46,7 @@ Se você preferir não instalar nada no seu computador, pode rodar os notebooks 
 2. Selecione a aba **GitHub**.
 3. Cole a URL deste repositório público no campo de busca.
 4. Clique no notebook da aula que deseja abrir e bons estudos!
+5. **Atenção: ** Os arquivos que necessitam de import (import pandas as pd from ...) podem não funcionar corretamente, quando executado em outro ambiente, que não sejam o do seu computador e/ou não tenham as permissões para isto!
 
 ### Opção 2: Rodar Localmente (Jupyter Notebook)
 Para rodar os arquivos `.ipynb` no seu computador:
@@ -56,6 +57,10 @@ Para rodar os arquivos `.ipynb` no seu computador:
   jupyter notebook
   Uma aba abrirá no seu navegador com a estrutura de pastas do curso.
 5. Uma aba abrirá no seu navegador com a estrutura de pastas do curso.
+6. Recomenda-se, para fins de aprendizagem, copiar e colar os fontes de interesse, em cad abloco do Jupyter e / ou do arquivo .PDF, colando-o em um arquivo.py (renomear, para o mais adequado), e para testar, com o comando python3 arquivo.py, para a sua execução, percepação e aprendizado!
+7. A opção acima, pode ser feita, de igual modo, copiando e colando o fonte online para estudos (https://www.online-python.com/)
+
+Bons estudos!
 
 👨‍🏫 Instrutor
 Prof. MSc. Francisco Neto * Curso de Fundamentos de Python3
